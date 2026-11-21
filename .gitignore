@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+hf-cache/
+pip-cache/
+models/
+.env
+Thumbs.db
+desktop.ini
+~$*.xlsx
+Python311/

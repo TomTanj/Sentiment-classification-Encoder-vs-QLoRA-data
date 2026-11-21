@@ -1,0 +1,41 @@
+name,fold,acc,f1
+Qwen2-1.5B zero-shot,0,0.756,0.6671
+Qwen2-1.5B zero-shot,1,0.7512,0.6376
+Qwen2-1.5B zero-shot,2,0.7512,0.6714
+Qwen2-1.5B zero-shot,3,0.8269,0.7749
+Qwen2-1.5B zero-shot,4,0.8029,0.7421
+Gemma-2-2B zero-shot,0,0.8086,0.7707
+Gemma-2-2B zero-shot,1,0.8517,0.8214
+Gemma-2-2B zero-shot,2,0.7895,0.7501
+Gemma-2-2B zero-shot,3,0.8654,0.8434
+Gemma-2-2B zero-shot,4,0.8125,0.777
+ELECTRA transfer,0,0.7273,0.695
+ELECTRA transfer,1,0.8038,0.7721
+ELECTRA transfer,2,0.7512,0.7208
+ELECTRA transfer,3,0.7548,0.7283
+ELECTRA transfer,4,0.726,0.6963
+DeBERTaV3 transfer,0,0.7847,0.7455
+DeBERTaV3 transfer,1,0.8373,0.8051
+DeBERTaV3 transfer,2,0.7751,0.7409
+DeBERTaV3 transfer,3,0.8029,0.7734
+DeBERTaV3 transfer,4,0.7692,0.7292
+Gemma-2-2B QLoRA in-domain,0,0.8804,0.8688
+Gemma-2-2B QLoRA in-domain,1,0.9139,0.904
+Gemma-2-2B QLoRA in-domain,2,0.8804,0.868
+Gemma-2-2B QLoRA in-domain,3,0.9038,0.8916
+Gemma-2-2B QLoRA in-domain,4,0.8606,0.8433
+Qwen2-1.5B QLoRA in-domain,0,0.8421,0.8208
+Qwen2-1.5B QLoRA in-domain,1,0.8804,0.8622
+Qwen2-1.5B QLoRA in-domain,2,0.8756,0.8632
+Qwen2-1.5B QLoRA in-domain,3,0.8798,0.864
+Qwen2-1.5B QLoRA in-domain,4,0.8702,0.8531
+ELECTRA in-domain,0,0.7799,0.7579
+ELECTRA in-domain,1,0.8517,0.8329
+ELECTRA in-domain,2,0.8421,0.8246
+ELECTRA in-domain,3,0.7981,0.7739
+ELECTRA in-domain,4,0.8029,0.7785
+DeBERTaV3 in-domain,0,0.7895,0.7726
+DeBERTaV3 in-domain,1,0.866,0.8507
+DeBERTaV3 in-domain,2,0.8469,0.8336
+DeBERTaV3 in-domain,3,0.8654,0.8532
+DeBERTaV3 in-domain,4,0.8173,0.8007
